@@ -1,0 +1,2 @@
+export const SEND_MESSAGE = 'CHAT::SEND_MESSAGE'
+export const FETCH_MESSAGES = 'CHAT::FETCH_MESSAGES'
